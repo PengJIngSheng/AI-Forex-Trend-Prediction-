@@ -23,7 +23,7 @@ The model predicts **log returns** for better stationarity, then reconstructs re
 
 Attention Mechanism → Dynamically weights important time steps in LSTM hidden states, filtering noise and improving focus on critical patterns.
 
-!["C:\Users\mier3\Downloads\Gemini_Generated_Image_rrltrprrltrprrlt.png"](C:\Users\mier3\Downloads\Gemini_Generated_Image_rrltrprrltrprrlt.png)
+!["C:\Users\mier3\Downloads\Gemini_Generated_Image_rrltrprrltrprrlt.png"](ModelINFO.png)
 
 **Rich Technical Indicators** → SMA, EMA, MACD, RSI, Bollinger Bands, ATR, Momentum as input features.
 
