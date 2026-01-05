@@ -268,8 +268,6 @@ df_with_predictions['Sell_Signal'] = np.where(
 # 6. 可视化 (已添加真实 High/Low)
 # ==========================================
 print("\nGenerating visualization charts...")
-# 如果数据量太大，可以开启下面这行进行采样，例如每5个点取一个
-# df_sampled = df_with_predictions.iloc[::5].copy()
 df_sampled = df_with_predictions.copy()
 
 fig_price = go.Figure()
